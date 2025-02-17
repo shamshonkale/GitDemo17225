@@ -16,5 +16,6 @@ public class TC001
 		gn.login();
 		gn.logout();
 		gn.closeApp();
+		System.out.println("Hello.....!");
 	}
 }
