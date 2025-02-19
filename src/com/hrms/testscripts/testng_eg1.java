@@ -41,5 +41,6 @@ public class testng_eg1
 		driver.findElement(By.xpath("//button[@type=\"submit\"]")).click();
 		driver.findElement(By.xpath("//*[@id=\"content\"]/div/a")).click();
 		System.out.println("GitDemo person X");
+		System.out.println("GitDemo person Y");
 	}
 }

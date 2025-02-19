@@ -26,5 +26,6 @@ public class eg_testng
 	{
 		System.out.println("c");
 		System.out.println("GitDemo person X");
+		System.out.println("GitDemo person Y");
 	}
 }
