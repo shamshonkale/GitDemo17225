@@ -25,5 +25,6 @@ public class eg_testng
 	public void ac()
 	{
 		System.out.println("c");
+		System.out.println("GitDemo person X");
 	}
 }
